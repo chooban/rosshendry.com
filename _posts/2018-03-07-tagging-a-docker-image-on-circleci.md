@@ -19,3 +19,5 @@ deployment key to get those changes back into github.
 
 Not quite there yet, as this has led to an infinite loops of pushing to master, getting notified of a change,
 incrementing the patch number, pushing to master, and so on.
+
+Luckily, there is a [very handy](https://circleci.com/docs/2.0/skip-build/) option to skip a build. All is well again.
