@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Finding unused components in a React project"
-date:   2018-03-07 08:12:32 +0000
+date:   2018-03-06 08:12:32 +0000
 categories: programming react
 ---
 
