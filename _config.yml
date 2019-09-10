@@ -15,10 +15,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 ---
-title: rosshendry.com
+author: Ross Hendry
+title: Ross Hendry - Developer
 email: rhendry@googlemail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Personal site where I try to log something that I learn every (maybe) day.
+description:  # this means to ignore newlines until "baseurl:"
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: https://www.rosshendry.com
 twitter_username: choobanicus
@@ -30,6 +30,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+minima:
+  social_links:
+    twitter: choobanicus
+    github: chooban
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
