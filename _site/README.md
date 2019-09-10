@@ -1,3 +1,0 @@
-Wheeee!
-
-Still wheee?

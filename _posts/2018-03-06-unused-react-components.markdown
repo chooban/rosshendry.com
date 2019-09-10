@@ -10,8 +10,8 @@ Having been used to Java IDEs highlighting these issues for me, I wasn't sure ho
 finding unused files.
 
 There are a couple of webpack plugins available for doing just this:
-* [https://github.com/tomchentw/unused-files-webpack-plugin](unused-files-webpack-plugin)
-* [https://github.com/MatthieuLemoine/unused-webpack-plugin](unused-webpack-plugin)
+* [unused-files-webpack-plugin](https://github.com/tomchentw/unused-files-webpack-plugin)
+* [unused-webpack-plugin](https://github.com/MatthieuLemoine/unused-webpack-plugin)
 
 The first gave me a list of all files in the project, which isn't so helpful. I imagine all I needed to do was configure
 an entry point for it, but a quick switch to `unused-webpack-plugin` gave me what I needed.
