@@ -9,3 +9,6 @@ through all stages of product delivery, from design and development through to d
 
 Currently working as Lead Developer at [KPV LAB](https://www.kpv-lab.co.uk) on a yet-to-be-released project to visualise 
 and explore data. You can find more details of my career to date [in my CV](https://stackoverflow.com/cv/rosshendry).
+
+In my spare time I flit between refereeing roller derby, [learning Japanese](https://www.wanikani.com/users/rosshendry), 
+or [tackling the movie backlog](https://letterboxd.com/chooban/films/diary/).
