@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Operational Changes
-date: 2019-10-10 15:00 +0000
+date: 2019-10-20 15:00 +0000
 categories: development
 ---
 
