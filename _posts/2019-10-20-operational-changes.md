@@ -17,5 +17,5 @@ re-engineer for efficiency. There are still parts of the pipeline that I'd like 
 that I'd like to eliminate, test runs to analyse for better parallelisation, and custom containers to be built.
 
 We'll be starting on some new projects soon, and my plan is to ramp up use of [Terraform](https://www.terraform.io) at
-this point. If we do it right, no-one should need to copy and paste any database URLs , and we should
+this point. If we do it right, no-one should need to copy and paste any database URLs, and we should
 be able to encapsulate all the configuration in version control.
