@@ -9,11 +9,10 @@ through all stages of product delivery, from design and development through to d
 
 I've worked with multiple languages, and in different sectors, from credit card processing in a PCI compliant
 environment, to interactive charts to go alongside market analysis reports. You can find more details of my career to
-date [in my CV](https://stackoverflow.com/cv/rosshendry).
+date [in my CV](https://www.linkedin.com/in/ross-hendry-86975120b/).
 
-Currently working as Lead Developer at [KPV LAB](https://www.kpv-lab.co.uk) on a yet-to-be-released project to visualise
-and explore data. As well as the development side of things, I'm focusing on improving developer productivity through
-applying the principles of devops and CI/CD.
+Currently working as a Senior Software Engineer at [Wave](https://www.wave.com), building life-changing financial
+infrastructure in Africa.
 
 In my spare time I flit between refereeing roller derby, [learning Japanese](https://www.wanikani.com/users/rosshendry),
 [tackling the movie backlog](https://letterboxd.com/chooban/films/diary/), and seeing what
