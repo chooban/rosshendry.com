@@ -1,0 +1,15 @@
+{
+  "subject": "acct:ross@rosshendry.com",
+  "links": [
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://blog.rosshendry.com/@ross"
+    },
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://blog.rosshendry.com/@ross"
+    }
+  ]
+}
